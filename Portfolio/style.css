@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.container{
+    width: 970px;
+    height: auto;
+}
+
+.header{
+    width: 940px;
+    height: auto;
+    background-color: #F8F8F8;
+    padding: 15px;
+}
+
+.main-content{
+    background: radial-gradient(#1F0F13, #6F5964);
+    width: auto;
+    height: auto;
+}
+
+.top img{
+    width: 400px;
+    height: auto;
+    border: 4px solid #C0C0C0;
+    margin: 20px;
+    display: inline-block;
+}
+
+.top-right{
+    width: 500px;
+    height: 271px;
+    background-color: #EDE5EC;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+.top-right h3{
+    background: linear-gradient(#A9A9AE, #878593, #A9A9AE);
+    color: white;
+    padding: 10px;
+}
+
+.top-right p{
+    padding: 10px;
+}
+
+.top-right a{
+    padding: 10px;
+    color: black;
+}
+
+.bottom .wrapper{
+    width: 294px;
+    height: auto;
+    background-image: linear-gradient(#FCFBFC, #DED0DD);
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 20px;
+}
+
+.wrapper h2{
+    color: white;
+    padding: 5px;
+    background: linear-gradient(#AAAAAF,#8A8895, #AAAAAF);
+}
+
+.wrapper img{
+    width: 294px;
+    height: auto;
+    margin: 0px;
+}
+
+.wrapper p{
+    padding: 10px;
+}
+
+.wrapper li{
+    display: inline-block;
+}
+
+.tech_img img{
+    width: 40px;
+    height: 40px;
+    margin: 10px 0px 10px 10px;
+}
+
+.wrapper button{
+    background-color: #407D61;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px slategray;
+    padding: 8px;
+    margin: 10px 90px;
+}
+
+.footer{
+    width: 940px;
+    background-color: #F8F8F8;
+    padding: 15px;
+}
+
+.footer p{
+    margin: auto;
+    width: 240px;
+}
+
+.footer ul{
+    width: 380px;
+    margin: auto;
+}
+
+.footer ul li{
+    display: inline-block;
+    list-style: none;
+}
+
+.footer img{
+    width: 20px;
+    height: auto;
+    margin: auto;
+    vertical-align: middle;
+}
+
+.footer a{
+    margin-left: 5px;
+}
+
